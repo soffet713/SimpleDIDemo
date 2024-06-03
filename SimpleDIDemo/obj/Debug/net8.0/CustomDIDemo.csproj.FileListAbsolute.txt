@@ -1,0 +1,14 @@
+E:\Visual Studio\Source\Design-Patterns-Using-CSharp-and-.NET-Core\SimpleDIDemo\SimpleDIDemo\bin\Debug\net8.0\CustomDIDemo.exe
+E:\Visual Studio\Source\Design-Patterns-Using-CSharp-and-.NET-Core\SimpleDIDemo\SimpleDIDemo\bin\Debug\net8.0\CustomDIDemo.deps.json
+E:\Visual Studio\Source\Design-Patterns-Using-CSharp-and-.NET-Core\SimpleDIDemo\SimpleDIDemo\bin\Debug\net8.0\CustomDIDemo.runtimeconfig.json
+E:\Visual Studio\Source\Design-Patterns-Using-CSharp-and-.NET-Core\SimpleDIDemo\SimpleDIDemo\bin\Debug\net8.0\CustomDIDemo.dll
+E:\Visual Studio\Source\Design-Patterns-Using-CSharp-and-.NET-Core\SimpleDIDemo\SimpleDIDemo\bin\Debug\net8.0\CustomDIDemo.pdb
+E:\Visual Studio\Source\Design-Patterns-Using-CSharp-and-.NET-Core\SimpleDIDemo\SimpleDIDemo\obj\Debug\net8.0\CustomDIDemo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Studio\Source\Design-Patterns-Using-CSharp-and-.NET-Core\SimpleDIDemo\SimpleDIDemo\obj\Debug\net8.0\CustomDIDemo.AssemblyInfoInputs.cache
+E:\Visual Studio\Source\Design-Patterns-Using-CSharp-and-.NET-Core\SimpleDIDemo\SimpleDIDemo\obj\Debug\net8.0\CustomDIDemo.AssemblyInfo.cs
+E:\Visual Studio\Source\Design-Patterns-Using-CSharp-and-.NET-Core\SimpleDIDemo\SimpleDIDemo\obj\Debug\net8.0\CustomDIDemo.csproj.CoreCompileInputs.cache
+E:\Visual Studio\Source\Design-Patterns-Using-CSharp-and-.NET-Core\SimpleDIDemo\SimpleDIDemo\obj\Debug\net8.0\CustomDIDemo.dll
+E:\Visual Studio\Source\Design-Patterns-Using-CSharp-and-.NET-Core\SimpleDIDemo\SimpleDIDemo\obj\Debug\net8.0\refint\CustomDIDemo.dll
+E:\Visual Studio\Source\Design-Patterns-Using-CSharp-and-.NET-Core\SimpleDIDemo\SimpleDIDemo\obj\Debug\net8.0\CustomDIDemo.pdb
+E:\Visual Studio\Source\Design-Patterns-Using-CSharp-and-.NET-Core\SimpleDIDemo\SimpleDIDemo\obj\Debug\net8.0\CustomDIDemo.genruntimeconfig.cache
+E:\Visual Studio\Source\Design-Patterns-Using-CSharp-and-.NET-Core\SimpleDIDemo\SimpleDIDemo\obj\Debug\net8.0\ref\CustomDIDemo.dll

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SimpleDIDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1A1798-6725-489F-BF91-1661AFF0DEA7}|SimpleDIDemo\\CustomDIDemo.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\simpledidemo\\simpledidemo\\classb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1A1798-6725-489F-BF91-1661AFF0DEA7}|SimpleDIDemo\\CustomDIDemo.csproj|solutionrelative:simpledidemo\\classb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1A1798-6725-489F-BF91-1661AFF0DEA7}|SimpleDIDemo\\CustomDIDemo.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\simpledidemo\\simpledidemo\\classa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1A1798-6725-489F-BF91-1661AFF0DEA7}|SimpleDIDemo\\CustomDIDemo.csproj|solutionrelative:simpledidemo\\classa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1A1798-6725-489F-BF91-1661AFF0DEA7}|SimpleDIDemo\\CustomDIDemo.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\simpledidemo\\simpledidemo\\iinterfaceb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1A1798-6725-489F-BF91-1661AFF0DEA7}|SimpleDIDemo\\CustomDIDemo.csproj|solutionrelative:simpledidemo\\iinterfaceb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1A1798-6725-489F-BF91-1661AFF0DEA7}|SimpleDIDemo\\CustomDIDemo.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\simpledidemo\\simpledidemo\\iinterfacea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1A1798-6725-489F-BF91-1661AFF0DEA7}|SimpleDIDemo\\CustomDIDemo.csproj|solutionrelative:simpledidemo\\iinterfacea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1A1798-6725-489F-BF91-1661AFF0DEA7}|SimpleDIDemo\\CustomDIDemo.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\simpledidemo\\simpledidemo\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1A1798-6725-489F-BF91-1661AFF0DEA7}|SimpleDIDemo\\CustomDIDemo.csproj|solutionrelative:simpledidemo\\dicontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF1A1798-6725-489F-BF91-1661AFF0DEA7}|SimpleDIDemo\\CustomDIDemo.csproj|e:\\visual studio\\source\\design-patterns-using-csharp-and-.net-core\\simpledidemo\\simpledidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF1A1798-6725-489F-BF91-1661AFF0DEA7}|SimpleDIDemo\\CustomDIDemo.csproj|solutionrelative:simpledidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClassB.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SimpleDIDemo\\SimpleDIDemo\\ClassB.cs",
+              "RelativeDocumentMoniker": "SimpleDIDemo\\ClassB.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SimpleDIDemo\\SimpleDIDemo\\ClassB.cs",
+              "RelativeToolTip": "SimpleDIDemo\\ClassB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:56:08.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IInterfaceB.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SimpleDIDemo\\SimpleDIDemo\\IInterfaceB.cs",
+              "RelativeDocumentMoniker": "SimpleDIDemo\\IInterfaceB.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SimpleDIDemo\\SimpleDIDemo\\IInterfaceB.cs",
+              "RelativeToolTip": "SimpleDIDemo\\IInterfaceB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:53:39.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClassA.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SimpleDIDemo\\SimpleDIDemo\\ClassA.cs",
+              "RelativeDocumentMoniker": "SimpleDIDemo\\ClassA.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SimpleDIDemo\\SimpleDIDemo\\ClassA.cs",
+              "RelativeToolTip": "SimpleDIDemo\\ClassA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:51:43.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IInterfaceA.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SimpleDIDemo\\SimpleDIDemo\\IInterfaceA.cs",
+              "RelativeDocumentMoniker": "SimpleDIDemo\\IInterfaceA.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SimpleDIDemo\\SimpleDIDemo\\IInterfaceA.cs",
+              "RelativeToolTip": "SimpleDIDemo\\IInterfaceA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:50:45.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DiContainer.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SimpleDIDemo\\SimpleDIDemo\\DiContainer.cs",
+              "RelativeDocumentMoniker": "SimpleDIDemo\\DiContainer.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SimpleDIDemo\\SimpleDIDemo\\DiContainer.cs",
+              "RelativeToolTip": "SimpleDIDemo\\DiContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:35:25.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SimpleDIDemo\\SimpleDIDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SimpleDIDemo\\Program.cs",
+              "ToolTip": "E:\\Visual Studio\\Source\\Design-Patterns-Using-CSharp-and-.NET-Core\\SimpleDIDemo\\SimpleDIDemo\\Program.cs",
+              "RelativeToolTip": "SimpleDIDemo\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T05:32:46.224Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
